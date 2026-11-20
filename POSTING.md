@@ -33,10 +33,6 @@ Why each part is there:
    this is the probe; the rest of the day's quota is saved for a final version
    near the deadline).
 
-## Why this is not submitted yet
+## Status posting (20 Nov)
 
-Every X account the user holds is currently suspended, so there is no public
-account to post from right now. Posting needs a working public X account —
-from the phone, by the user. Do **not** invent a post URL: the house reads the
-post through X's public embed before grading, and a made-up address fails the
-entry_link check and burns a submit.
+Diposting ulang dari akun X baru **@Uygikpfq** — https://x.com/Uygikpfq/status/2123637197022912857 (POST.json sudah diupdate + push). Post lama @Handikantf4 (2123448542270501119) tidak lagi bisa diakses — akun kena suspend. Entry siap submit; ketik "Lanjut submit" di side chat "Submit gta6-meme-x-01".
